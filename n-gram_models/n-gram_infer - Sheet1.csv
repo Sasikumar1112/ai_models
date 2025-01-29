@@ -1,0 +1,7 @@
+n,COHERENCE,DIVERGENCE,
+2,0.45,0.95,
+3,0.45,0.75,
+4,overfit almost,0.3,exactly fit the line util it encounter 'as' like words 
+5,OVERFIT almost,0,
+,,,
+Data set size,179898 words,,
